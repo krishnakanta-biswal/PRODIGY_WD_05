@@ -14,4 +14,4 @@ This is a simple weather app built with HTML, CSS, and JavaScript. It fetches re
 - OpenWeatherMap API
 
 ## Live Site
-[View Weather App](https://your-krishnakanta-biswal.github.io/PRODIGY_WD_05/)
+[View Weather App](https://krishnakanta-biswal.github.io/PRODIGY_WD_05/)
